@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 29 Dec 2016 12:00:00 +0000
+Source: usar-linux-gnu-facil
+Binary: usar-linux-gnu-facil
+Architecture: source all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Usuarios de Linux <amoyao2014@gmail.com>
+Changed-By: Usuarios de Linux <amoyao2014@gmail.com>
+Description: 
+ usar-linux-gnu-facil - Facilita el uso de Linux/GNU
+Changes: 
+ usar-linux-gnu-facil (0.1.0-1) unstable; urgency=low
+ .
+   * Reinstalar wifi
+Checksums-Sha1: 
+ 61ce93bbffc01cf390bbf30c881e5f275ee7d2cb 1408 usar-linux-gnu-facil_0.1.0-1.dsc
+ ad0096c8ed08df8a2fa769d6015d8110195ae241 1714 usar-linux-gnu-facil_0.1.0-1.diff.gz
+ 0d23f7db3882651803bac9b98bb69427cd8b8c04 13936 usar-linux-gnu-facil_0.1.0-1_all.deb
+Checksums-Sha256: 
+ 91b0872449fb7d39053f610b066ebf3fce10da8b89f63a804b3ba835c4e32be9 1408 usar-linux-gnu-facil_0.1.0-1.dsc
+ e36ac06c1024feaa23bd10a826aab089a8756cdc85f2cfa2912f54ef50355053 1714 usar-linux-gnu-facil_0.1.0-1.diff.gz
+ 50720b3a7156c2591f6e84bc62d60afe5169e1f52fb51dacdee7dc7dd01ba242 13936 usar-linux-gnu-facil_0.1.0-1_all.deb
+Files: 
+ 9d8c8544a9abcae3ae2a344c1b5efbb4 1408 contrib/utils optional usar-linux-gnu-facil_0.1.0-1.dsc
+ f702b04698f323673ac64b6bffdd3fcf 1714 contrib/utils optional usar-linux-gnu-facil_0.1.0-1.diff.gz
+ c1f5083f04c335e7c20cec5d03f03b2c 13936 contrib/utils optional usar-linux-gnu-facil_0.1.0-1_all.deb
