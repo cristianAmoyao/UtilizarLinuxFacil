@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk
+Binary: usarlinuxfacil-gtk
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian <cristian@cristian-100NZB>
+Changed-By: cristian <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-gtk - gtk package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk (0.0.1-1) unstable; urgency=low
+ .
+   * reparados todos los problema
+Checksums-Sha1: 
+ 9887125202dc4d6a890ebf85492b71d2cd8d4360 568 usarlinuxfacil-gtk_0.0.1-1.dsc
+ 79c023d46a5358233b804396b8ad6209f4c5a253 826 usarlinuxfacil-gtk_0.0.1-1.tar.gz
+ 6f4fc1453f32cdda0d5c03d4f06e55fabcfc4ed4 1244 usarlinuxfacil-gtk_0.0.1-1_all.deb
+Checksums-Sha256: 
+ 4b96059650db4a0719418a89c3bfd9bd43910726835da580a262d40347a5e95f 568 usarlinuxfacil-gtk_0.0.1-1.dsc
+ c338c369d87bcf584dda174018718da5f9d9ce61ac0ad357dfd396350c6ebf7f 826 usarlinuxfacil-gtk_0.0.1-1.tar.gz
+ 3a3f4535e8910123ff9c2bba59a5438f9fa8ff8e6a41027a2696dd299681e949 1244 usarlinuxfacil-gtk_0.0.1-1_all.deb
+Files: 
+ 142d516dfb81ddd7a002add82b0af56a 568 contrib/admin optional usarlinuxfacil-gtk_0.0.1-1.dsc
+ b88b464106fbbe0d2737ca3fa3e2bd99 826 contrib/admin optional usarlinuxfacil-gtk_0.0.1-1.tar.gz
+ 4eb4583a6e5e106f0f6e9bc084229632 1244 contrib/admin optional usarlinuxfacil-gtk_0.0.1-1_all.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-qt4
+Binary: usarlinuxfacil-qt4
+Architecture: source all
+Version: 0.0.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian <cristian@cristian-100NZB>
+Changed-By: cristian <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-qt4 - qt4 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-qt4 (0.0.1-0ubuntu1) unstable; urgency=low
+ .
+   * reparados todos los problema
+Checksums-Sha1: 
+ 271e7aecbb69517300928229ef757bad4bfcb7bb 596 usarlinuxfacil-qt4_0.0.1-0ubuntu1.dsc
+ c256b24fc8765b8bd543a4d43cf5a1e243961698 825 usarlinuxfacil-qt4_0.0.1-0ubuntu1.tar.gz
+ 7e55aba7fed82b4f75170c5ee8fa31b2578d7f1a 1254 usarlinuxfacil-qt4_0.0.1-0ubuntu1_all.deb
+Checksums-Sha256: 
+ 3fc573f239758224915c2c2e311db3423dbfe5a4a843b84cce23b1bc2dc1c439 596 usarlinuxfacil-qt4_0.0.1-0ubuntu1.dsc
+ 64087c6c9c4d42b44f2de39a527b3961f4e20bd652366dfb33e00bc71c319823 825 usarlinuxfacil-qt4_0.0.1-0ubuntu1.tar.gz
+ 0773a12dde59e1d5135e17b68bde5f544a804459493edfeac70f8f19475afd42 1254 usarlinuxfacil-qt4_0.0.1-0ubuntu1_all.deb
+Files: 
+ f4744e12cc2f07d7253b1c1490f45770 596 contrib/admin optional usarlinuxfacil-qt4_0.0.1-0ubuntu1.dsc
+ 951b5b396483748590cbc87614e1b079 825 contrib/admin optional usarlinuxfacil-qt4_0.0.1-0ubuntu1.tar.gz
+ caecb25e1083dabf6cb0703d882f26d7 1254 contrib/admin optional usarlinuxfacil-qt4_0.0.1-0ubuntu1_all.deb

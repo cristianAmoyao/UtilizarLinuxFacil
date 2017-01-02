@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-qt5
+Binary: usarlinuxfacil-qt5
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian <cristian@cristian-100NZB>
+Changed-By: cristian <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-qt5 - qt5 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-qt5 (0.0.1-1) unstable; urgency=low
+ .
+   * reparados todos los problema
+Checksums-Sha1: 
+ 8b6d80eac2f508ff70c67be158cd558639813396 568 usarlinuxfacil-qt5_0.0.1-1.dsc
+ 2af10ee6cba67de55855c92f0c7895ad8908e271 821 usarlinuxfacil-qt5_0.0.1-1.tar.gz
+ 861cd1f55bbe4c9470485bf033d0346e2531caa1 1250 usarlinuxfacil-qt5_0.0.1-1_all.deb
+Checksums-Sha256: 
+ d59ca5f3bc4588746457f4780b5c4ff95a154981ff8b3dfb9b21083e5bb0078b 568 usarlinuxfacil-qt5_0.0.1-1.dsc
+ 60fe2c88610a04bc1c2ab161d2fec049bad750965febf1b4fd911dbbcee956a2 821 usarlinuxfacil-qt5_0.0.1-1.tar.gz
+ 6303a19530e77935b2db427ccfb916cd26f07b888c2f25cb339177f5a8081358 1250 usarlinuxfacil-qt5_0.0.1-1_all.deb
+Files: 
+ 94a774e3328647893f55589c14123dac 568 contrib/admin optional usarlinuxfacil-qt5_0.0.1-1.dsc
+ 861ca053ebffacff0e0943529bb5c7ef 821 contrib/admin optional usarlinuxfacil-qt5_0.0.1-1.tar.gz
+ 7d730eeeef4c035ee7a9c521fa3d0005 1250 contrib/admin optional usarlinuxfacil-qt5_0.0.1-1_all.deb

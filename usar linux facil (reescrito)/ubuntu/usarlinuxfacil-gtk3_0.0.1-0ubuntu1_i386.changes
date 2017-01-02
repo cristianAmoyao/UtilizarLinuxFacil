@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk3
+Binary: usarlinuxfacil-gtk3
+Architecture: source all
+Version: 0.0.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian <cristian@cristian-100NZB>
+Changed-By: cristian <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-gtk3 - gtk3 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk3 (0.0.1-0ubuntu1) unstable; urgency=low
+ .
+   * reparados todos los problema
+Checksums-Sha1: 
+ 4654a9c1a69d258c892ac2ce166a5604ff4c1c23 602 usarlinuxfacil-gtk3_0.0.1-0ubuntu1.dsc
+ 086ebbbb2865c1570f074026352af2ce1a458292 828 usarlinuxfacil-gtk3_0.0.1-0ubuntu1.tar.gz
+ 8c5e6aa8bc296417ae63fb5b4be92da241ff8909 1256 usarlinuxfacil-gtk3_0.0.1-0ubuntu1_all.deb
+Checksums-Sha256: 
+ 7b5754c31e1c1548cf4a0c05252f0b42b68c27af687e1b630678b82ee2022c85 602 usarlinuxfacil-gtk3_0.0.1-0ubuntu1.dsc
+ 561acc9bd8c3c787fc838b56618c1aea7513a6ec18f8d0f843b51bb60fbf6aa2 828 usarlinuxfacil-gtk3_0.0.1-0ubuntu1.tar.gz
+ 40e527b33fc8dcc1c2a4af5761e6f38541d13cf94a881d12bbfab0452ad540fe 1256 usarlinuxfacil-gtk3_0.0.1-0ubuntu1_all.deb
+Files: 
+ 69089a1e375b01c6b7ce8e0fabde64fa 602 contrib/admin optional usarlinuxfacil-gtk3_0.0.1-0ubuntu1.dsc
+ cd58dc5791c80da2f43fab1712be0683 828 contrib/admin optional usarlinuxfacil-gtk3_0.0.1-0ubuntu1.tar.gz
+ ae82f430ec55120cc9bdb3764a7b5d0b 1256 contrib/admin optional usarlinuxfacil-gtk3_0.0.1-0ubuntu1_all.deb

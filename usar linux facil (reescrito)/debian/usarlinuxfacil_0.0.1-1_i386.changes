@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil
+Binary: usarlinuxfacil
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian <cristian@cristian-100NZB>
+Changed-By: cristian <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil - te facilita el uso de Linux
+Changes: 
+ usarlinuxfacil (0.0.1-1) unstable; urgency=low
+ .
+   * reparados todos los problema
+Checksums-Sha1: 
+ 807db8b3b6d29275cf07142fb79b27725636b421 968 usarlinuxfacil_0.0.1-1.dsc
+ f8b0697ee9681a4b4bb606ffd27e55b97e5e1389 1253 usarlinuxfacil_0.0.1-1.diff.gz
+ cb6c90d5743a907b92310a330a6ad8fec76187a3 9402 usarlinuxfacil_0.0.1-1_all.deb
+Checksums-Sha256: 
+ 4034d4d92d04c7d94c71918e82a09c5cf61841367617f4cd1ee3cc5f7a54e017 968 usarlinuxfacil_0.0.1-1.dsc
+ 5085db2f60c05ca4630fd046ef7c4e649dfbe38a3f3c1f285096091c7e89f6f0 1253 usarlinuxfacil_0.0.1-1.diff.gz
+ ce378959ad8e5eafd8ac29c31700758c9f5d7b8ae35b1ce2e147a1f7d28a474e 9402 usarlinuxfacil_0.0.1-1_all.deb
+Files: 
+ 740d856c8f96336f7189f1d885d10e80 968 contrib/admin optional usarlinuxfacil_0.0.1-1.dsc
+ ff7483fffa3ab8b3ddd36598de0a937a 1253 contrib/admin optional usarlinuxfacil_0.0.1-1.diff.gz
+ d08e78f3be1fcbd808123cd8a15bed56 9402 contrib/admin optional usarlinuxfacil_0.0.1-1_all.deb
