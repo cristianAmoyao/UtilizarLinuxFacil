@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk
+Binary: usarlinuxfacil-gtk
+Architecture: source all
+Version: 0.0.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <cristian@cristian-100NZB>
+Changed-By: cristian amoyao <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-gtk - gtk package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk (0.0.1-0ubuntu1) unstable; urgency=low
+ .
+   * reparado el boton de reparar dns
+Checksums-Sha1: 
+ 3f80468320eb65f312153722549000be9786f81b 603 usarlinuxfacil-gtk_0.0.1-0ubuntu1.dsc
+ 10275ae6865a3b17f3dfc6d4c74ecc7af4c2b104 854 usarlinuxfacil-gtk_0.0.1-0ubuntu1.tar.gz
+ 2528ad3fc7469e047bdcb2b599406320c6586134 1290 usarlinuxfacil-gtk_0.0.1-0ubuntu1_all.deb
+Checksums-Sha256: 
+ 15dbbdab47a1e5cf2a4f65b1866dd55cd1c167b858f891aea4d90b3669749ceb 603 usarlinuxfacil-gtk_0.0.1-0ubuntu1.dsc
+ 6d226e28c8de826e1743a3de3a4c37382e40daef3df3cc4446c85af628620ad1 854 usarlinuxfacil-gtk_0.0.1-0ubuntu1.tar.gz
+ 549b7101abbc43f11f8182645e8d8f98a8c7f5b55c06ee2995fd8695e99e9c22 1290 usarlinuxfacil-gtk_0.0.1-0ubuntu1_all.deb
+Files: 
+ 89ad71ef744d77eb22f47b37d763f9d8 603 contrib/admin optional usarlinuxfacil-gtk_0.0.1-0ubuntu1.dsc
+ eeb73222f0a0ffba59fcd0c8ba3476cd 854 contrib/admin optional usarlinuxfacil-gtk_0.0.1-0ubuntu1.tar.gz
+ 154ef1b6649e0c41bd335668e16e64c8 1290 contrib/admin optional usarlinuxfacil-gtk_0.0.1-0ubuntu1_all.deb

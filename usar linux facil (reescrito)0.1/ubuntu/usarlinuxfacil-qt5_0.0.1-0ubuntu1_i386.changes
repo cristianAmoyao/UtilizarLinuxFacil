@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-qt5
+Binary: usarlinuxfacil-qt5
+Architecture: source all
+Version: 0.0.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <cristian@cristian-100NZB>
+Changed-By: cristian amoyao <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-qt5 - qt5 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-qt5 (0.0.1-0ubuntu1) unstable; urgency=low
+ .
+   * reparado el boton de reparar dns
+Checksums-Sha1: 
+ 52d33ce586eb1429fe5d8f251a1ec154cb3f5bc6 603 usarlinuxfacil-qt5_0.0.1-0ubuntu1.dsc
+ 36c07d60dc9ee71886be2c1def271c6adad3c839 849 usarlinuxfacil-qt5_0.0.1-0ubuntu1.tar.gz
+ 01757e6ee360510388165583d5c733c7d952d186 1294 usarlinuxfacil-qt5_0.0.1-0ubuntu1_all.deb
+Checksums-Sha256: 
+ 25890c5379b99c443febbf7d43dd80b28ba0605905235b231b3762dbc485c4b4 603 usarlinuxfacil-qt5_0.0.1-0ubuntu1.dsc
+ 2ad6e16c7c8bbc02b0f3f8e46dbe848727031dad8b7abe864fb71f6a275e7884 849 usarlinuxfacil-qt5_0.0.1-0ubuntu1.tar.gz
+ ef0fcc3af113f1d245fd67b003aa8cc6362578a14aa54f7d99b0ce3a6444da96 1294 usarlinuxfacil-qt5_0.0.1-0ubuntu1_all.deb
+Files: 
+ 93283bbb2268cb0b8b02db33c46c1963 603 contrib/admin optional usarlinuxfacil-qt5_0.0.1-0ubuntu1.dsc
+ 096baef1437d1266f6854feff9f9d28a 849 contrib/admin optional usarlinuxfacil-qt5_0.0.1-0ubuntu1.tar.gz
+ 6d20e35e89ab600b79269e27832d3f59 1294 contrib/admin optional usarlinuxfacil-qt5_0.0.1-0ubuntu1_all.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-qt4
+Binary: usarlinuxfacil-qt4
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <cristian@cristian-100NZB>
+Changed-By: cristian amoyao <cristian@cristian-100NZB>
+Description: 
+ usarlinuxfacil-qt4 - qt4 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-qt4 (0.0.1-1) unstable; urgency=low
+ .
+   * reparado el boton de reparar dns
+Checksums-Sha1: 
+ 6c8907ae077fa502d208cb7cbd5ed9333cbb9264 575 usarlinuxfacil-qt4_0.0.1-1.dsc
+ 1b30345c7f6a8a05c96385ba0d3a8582152a8b62 841 usarlinuxfacil-qt4_0.0.1-1.tar.gz
+ 7438dd05d70a7ca61213b5ace72367b46d556475 1278 usarlinuxfacil-qt4_0.0.1-1_all.deb
+Checksums-Sha256: 
+ 821804488bf0f3199dfa6c5cec0d466730972bd5094a15495bcfb8a7677666c8 575 usarlinuxfacil-qt4_0.0.1-1.dsc
+ 54693f475f80466484aa2bf1c6b79db621012b90f56fab0a3556d165de94c2e5 841 usarlinuxfacil-qt4_0.0.1-1.tar.gz
+ 1b1bc8a6dc1e087f0c71f7355dbde891c587b9a17df6b654426b4fb50e82d285 1278 usarlinuxfacil-qt4_0.0.1-1_all.deb
+Files: 
+ 62aa6904c720c53f7bea1e4adab05996 575 contrib/admin optional usarlinuxfacil-qt4_0.0.1-1.dsc
+ ba47ce9d30e0008936df34d8dbb02258 841 contrib/admin optional usarlinuxfacil-qt4_0.0.1-1.tar.gz
+ a576a17dc02de9887cff7679ee104b98 1278 contrib/admin optional usarlinuxfacil-qt4_0.0.1-1_all.deb

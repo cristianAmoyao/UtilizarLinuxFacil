@@ -1,0 +1,71 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: usarlinuxfacil 3.9.1\n"
+"PO-Revision-Date: 2017-01-02 17:43 UTC\n"
+"Last-Translator: cristian <cristian@cristian-100NZB>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1
+msgid "usar linux facil (reescribido)"
+msgstr "Use Linux Easy (Rewritten)"
+
+#: FMain.form:22
+msgid "Usar Linux Facil "
+msgstr "Use Linux Easy"
+
+#: FMain.form:31
+msgid "Salir"
+msgstr "Exit"
+
+#: FMain.form:38
+msgid "Reiniciar audio\n(ALSA y Pulse)"
+msgstr "Reset audio (ALSA and Pulse)"
+
+#: FMain.form:44
+msgid "Bienvenido a Usar GNU/Linux Facil"
+msgstr "Welcome to To use GNU / Linux Facil"
+
+#: FMain.form:49
+msgid "NOTA:Se le solicitara password para realizar las tareas"
+msgstr "Note: You will be prompted for the password to perform the tasks"
+
+#: FMain.form:54
+msgid "Reparar Dns"
+msgstr "Repair Dns"
+
+#: FMain.form:64
+msgid "Actualizar Grub"
+msgstr "Update GRUB"
+
+#: FMain.form:70
+msgid "Actualizar informacion\nde los Repositorios"
+msgstr "Update information from repositories"
+
+#: FMain.form:76
+msgid "Limpiar archivos\nInnecesarios"
+msgstr "Clean unnecessary files"
+
+#: FMain.form:82
+msgid "Remover cache de los\n.deb paquetes\n(versiones Anteriores)\nde  programas instalados."
+msgstr "Remove cache from the .deb packages (older versions) of installed programs"
+
+#: FMain.form:88
+msgid "No aparece el fondo\n de pantalla XFCE"
+msgstr "The wallpaper does not appear in xfce4"
+
+#: FMain.form:94
+msgid "Reiniciar todos los \nservicios de internet"
+msgstr "Restart all internet services"
+
+#: FMain.form:100
+msgid "Actualizar todos los \nprogramas instalados."
+msgstr "Update all installed programs"
+
+#: FMain.form:105
+msgid "Actualizar\nRepositorios"
+msgstr "Update repositories"
+
