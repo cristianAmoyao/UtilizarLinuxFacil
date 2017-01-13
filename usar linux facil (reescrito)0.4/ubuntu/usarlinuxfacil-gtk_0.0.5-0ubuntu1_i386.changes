@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 13 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk
+Binary: usarlinuxfacil-gtk
+Architecture: source all
+Version: 0.0.5-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <amoyao2014@gmailcom>
+Changed-By: cristian amoyao <amoyao2014@gmailcom>
+Description: 
+ usarlinuxfacil-gtk - gtk package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk (0.0.5-0ubuntu1) unstable; urgency=low
+ .
+   * se muestra los programas que inicia durante el arranque
+   * se muestra los sistemas operativos que tiene instalados
+   * se puede saber cuanto pesa los paquetes de instalacion ya usados
+   * editor de menu (si se tiene instalado menu libre)
+   * instalar xfce4
+   * desinstalar xfce4
+   * limpiar navegador
+Checksums-Sha1: 
+ 7d5aef4f6d4cf47680dff25824880b483e8c10f1 598 usarlinuxfacil-gtk_0.0.5-0ubuntu1.dsc
+ 9ecbb129226d51b73595683333cf3ce6ca27b34e 998 usarlinuxfacil-gtk_0.0.5-0ubuntu1.tar.gz
+ bcabdfe722e6f16e6de370f02bb0df7f50de8991 1444 usarlinuxfacil-gtk_0.0.5-0ubuntu1_all.deb
+Checksums-Sha256: 
+ b01b606a9a270f1080e91c42f5694c8bb3fe9faa07fc10656862287f1a050244 598 usarlinuxfacil-gtk_0.0.5-0ubuntu1.dsc
+ f443c1c9a8748da9422db42baa9a5c1db114e28bb23c0f8feeae39962ab89e15 998 usarlinuxfacil-gtk_0.0.5-0ubuntu1.tar.gz
+ e75981dca33b681cfaca8844214999f83fed5f913cb12686e9ff9fcc9160f9fc 1444 usarlinuxfacil-gtk_0.0.5-0ubuntu1_all.deb
+Files: 
+ 7374c63bb97e274e8ada922c73acda19 598 contrib/admin optional usarlinuxfacil-gtk_0.0.5-0ubuntu1.dsc
+ 7efae0840a6fc9499cfbf3628864becb 998 contrib/admin optional usarlinuxfacil-gtk_0.0.5-0ubuntu1.tar.gz
+ 5b2289370bef192106f0012857cb0ad0 1444 contrib/admin optional usarlinuxfacil-gtk_0.0.5-0ubuntu1_all.deb

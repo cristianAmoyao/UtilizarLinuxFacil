@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 13 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk
+Binary: usarlinuxfacil-gtk
+Architecture: source all
+Version: 0.0.5-1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <amoyao2014@gmailcom>
+Changed-By: cristian amoyao <amoyao2014@gmailcom>
+Description: 
+ usarlinuxfacil-gtk - gtk package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk (0.0.5-1) unstable; urgency=low
+ .
+   * se muestra los programas que inicia durante el arranque
+   * se muestra los sistemas operativos que tiene instalados
+   * se puede saber cuanto pesa los paquetes de instalacion ya usados
+   * editor de menu (si se tiene instalado menu libre)
+   * instalar xfce4
+   * desinstalar xfce4
+   * limpiar navegador
+Checksums-Sha1: 
+ 6c2a8468054fca667ee328dd16e72ef1ceab516a 570 usarlinuxfacil-gtk_0.0.5-1.dsc
+ 33c7c60224e23850b08a604cc21b05346447a3da 996 usarlinuxfacil-gtk_0.0.5-1.tar.gz
+ 2211112974ba36d59b77497bdb9159361c325f88 1424 usarlinuxfacil-gtk_0.0.5-1_all.deb
+Checksums-Sha256: 
+ 3817896652b7313a2beb1ea49eea1258455a7a3e806b72c32fe870c4c269a281 570 usarlinuxfacil-gtk_0.0.5-1.dsc
+ 4f524942657b6d580f38afa7b4a8836598f4382c4bcb9671ffd9a4f442ed0629 996 usarlinuxfacil-gtk_0.0.5-1.tar.gz
+ 743d8a15ffe41359279f6b3cd967de8c727e7dd4600568e3904d58d5ba575320 1424 usarlinuxfacil-gtk_0.0.5-1_all.deb
+Files: 
+ 02ebde54651775110d63d4a84d20e924 570 contrib/admin optional usarlinuxfacil-gtk_0.0.5-1.dsc
+ 02c610113a7472379b9c1ff872b17b5c 996 contrib/admin optional usarlinuxfacil-gtk_0.0.5-1.tar.gz
+ c733950bdf139facbd81ec0fe5c4feaa 1424 contrib/admin optional usarlinuxfacil-gtk_0.0.5-1_all.deb

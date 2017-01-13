@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 13 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-gtk3
+Binary: usarlinuxfacil-gtk3
+Architecture: source all
+Version: 0.0.5-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <amoyao2014@gmailcom>
+Changed-By: cristian amoyao <amoyao2014@gmailcom>
+Description: 
+ usarlinuxfacil-gtk3 - gtk3 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-gtk3 (0.0.5-0ubuntu1) unstable; urgency=low
+ .
+   * se muestra los programas que inicia durante el arranque
+   * se muestra los sistemas operativos que tiene instalados
+   * se puede saber cuanto pesa los paquetes de instalacion ya usados
+   * editor de menu (si se tiene instalado menu libre)
+   * instalar xfce4
+   * desinstalar xfce4
+   * limpiar navegador
+Checksums-Sha1: 
+ 66ec3f0698278c242222b2a660d0701826a4f1f6 607 usarlinuxfacil-gtk3_0.0.5-0ubuntu1.dsc
+ 27a0629892979624c4bc06341371e8b91ecc5556 1003 usarlinuxfacil-gtk3_0.0.5-0ubuntu1.tar.gz
+ 892afdb8f7d26a9f9d5dd8b22166363c7cb6a084 1444 usarlinuxfacil-gtk3_0.0.5-0ubuntu1_all.deb
+Checksums-Sha256: 
+ ccac37e2515b5543fcb5284111a98a89e6bb197fda5f8326c2cb101567c0fe36 607 usarlinuxfacil-gtk3_0.0.5-0ubuntu1.dsc
+ 38bb02ef58a9ac30b26224f443160bc666cc9d81386d4cfa9c677d97b893ce49 1003 usarlinuxfacil-gtk3_0.0.5-0ubuntu1.tar.gz
+ 4f4d05a8b41ceb0d846e36e5e577ca8994f81ab5db379d930d2ee44a1643db54 1444 usarlinuxfacil-gtk3_0.0.5-0ubuntu1_all.deb
+Files: 
+ 1e92ef5f5f45b36a6ab33911acfe4bd2 607 contrib/admin optional usarlinuxfacil-gtk3_0.0.5-0ubuntu1.dsc
+ 9ad2540736b81b1c6e2bfba7d2eb863f 1003 contrib/admin optional usarlinuxfacil-gtk3_0.0.5-0ubuntu1.tar.gz
+ 43f0c73c0d0c2ecea17456f6fdceecc3 1444 contrib/admin optional usarlinuxfacil-gtk3_0.0.5-0ubuntu1_all.deb

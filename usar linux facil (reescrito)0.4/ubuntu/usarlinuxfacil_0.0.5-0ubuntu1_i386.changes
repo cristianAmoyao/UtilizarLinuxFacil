@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 13 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil
+Binary: usarlinuxfacil
+Architecture: source all
+Version: 0.0.5-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <amoyao2014@gmailcom>
+Changed-By: cristian amoyao <amoyao2014@gmailcom>
+Description: 
+ usarlinuxfacil - te facilita el uso de Linux mantenido por la comunidad
+Changes: 
+ usarlinuxfacil (0.0.5-0ubuntu1) unstable; urgency=low
+ .
+   * se muestra los programas que inicia durante el arranque
+   * se muestra los sistemas operativos que tiene instalados
+   * se puede saber cuanto pesa los paquetes de instalacion ya usados
+   * editor de menu (si se tiene instalado menu libre)
+   * instalar xfce4
+   * desinstalar xfce4
+   * limpiar navegador
+Checksums-Sha1: 
+ f27e751636a804d1fc5ea3420ace3f5f937f6265 1128 usarlinuxfacil_0.0.5-0ubuntu1.dsc
+ 650f2d2588b3fb582ae446fe2d866118d2252bfe 1475 usarlinuxfacil_0.0.5-0ubuntu1.diff.gz
+ a7e91655d6cffccf04dab55bbc34eb2b4ad62b49 17196 usarlinuxfacil_0.0.5-0ubuntu1_all.deb
+Checksums-Sha256: 
+ 8f80369371d8a30766f836e9fa0e2ad9710ba67beb7e692b5faae233bacfbda1 1128 usarlinuxfacil_0.0.5-0ubuntu1.dsc
+ a051e28dc8a2cb155e1ece5ec936ad1057c710cf65a3900714d0da4fd89d8d45 1475 usarlinuxfacil_0.0.5-0ubuntu1.diff.gz
+ a2f7b7b2054b9d5e4af178ff1be54aad337f609f5a54acba4fcf93e63aff4f6b 17196 usarlinuxfacil_0.0.5-0ubuntu1_all.deb
+Files: 
+ 3fa0c10a99118bd86a90bbde9a9d2426 1128 contrib/admin optional usarlinuxfacil_0.0.5-0ubuntu1.dsc
+ f8e0fd5c4083238e3f5423e353fe38b8 1475 contrib/admin optional usarlinuxfacil_0.0.5-0ubuntu1.diff.gz
+ 2d64edd6605ef5a070c5ddce66eadda8 17196 contrib/admin optional usarlinuxfacil_0.0.5-0ubuntu1_all.deb

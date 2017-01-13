@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 13 Jan 2017 12:00:00 +0000
+Source: usarlinuxfacil-qt5
+Binary: usarlinuxfacil-qt5
+Architecture: source all
+Version: 0.0.5-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: cristian amoyao <amoyao2014@gmailcom>
+Changed-By: cristian amoyao <amoyao2014@gmailcom>
+Description: 
+ usarlinuxfacil-qt5 - qt5 package for usar linux facil (reescribido)
+Changes: 
+ usarlinuxfacil-qt5 (0.0.5-0ubuntu1) unstable; urgency=low
+ .
+   * se muestra los programas que inicia durante el arranque
+   * se muestra los sistemas operativos que tiene instalados
+   * se puede saber cuanto pesa los paquetes de instalacion ya usados
+   * editor de menu (si se tiene instalado menu libre)
+   * instalar xfce4
+   * desinstalar xfce4
+   * limpiar navegador
+Checksums-Sha1: 
+ 0b70af909249e1ed2474b122ff57bb5df8b720fd 601 usarlinuxfacil-qt5_0.0.5-0ubuntu1.dsc
+ a1d90cf6cf8a38a86893c3958f8d389df487629e 1001 usarlinuxfacil-qt5_0.0.5-0ubuntu1.tar.gz
+ 8535013b3e950c402d96d787da3d0a31ca690e37 1438 usarlinuxfacil-qt5_0.0.5-0ubuntu1_all.deb
+Checksums-Sha256: 
+ ccc9741f71bcb7fee08e9f0088926b97c706b49b1166436ca6cb26a0806cf627 601 usarlinuxfacil-qt5_0.0.5-0ubuntu1.dsc
+ e980dc652e703e03c23b32343452e4488f3e8f61ac5e19c66f58d3163fcb058f 1001 usarlinuxfacil-qt5_0.0.5-0ubuntu1.tar.gz
+ 46e1a4537c81764e47ba280d933a41ea94263cf5ad5ea743f666f6f229698e0a 1438 usarlinuxfacil-qt5_0.0.5-0ubuntu1_all.deb
+Files: 
+ 31a1b7db0793791db6bb29c3199a58f2 601 contrib/admin optional usarlinuxfacil-qt5_0.0.5-0ubuntu1.dsc
+ 942d45b3ad58556ba107deedcd1cf507 1001 contrib/admin optional usarlinuxfacil-qt5_0.0.5-0ubuntu1.tar.gz
+ 569c6dd03c8cc16b092af08df45175ea 1438 contrib/admin optional usarlinuxfacil-qt5_0.0.5-0ubuntu1_all.deb
