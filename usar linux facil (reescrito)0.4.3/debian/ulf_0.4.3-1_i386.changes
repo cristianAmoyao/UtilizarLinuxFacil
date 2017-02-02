@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 02 Feb 2017 12:00:00 +0000
+Source: ulf
+Binary: ulf
+Architecture: source all
+Version: 0.4.3-1
+Distribution: unstable
+Urgency: low
+Maintainer: Hsmcea <cristian@cristian-100NZB>
+Changed-By: Hsmcea <cristian@cristian-100NZB>
+Description:
+ ulf        - Utilizar Linux Facil
+Changes:
+ ulf (0.4.3-1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ 7a23fe013db2a7af1cc7fd04582c9c2f93711662 876 ulf_0.4.3-1.dsc
+ 3866eab7e930b1665f5b3f400a48efb9d2c0d135 12807 ulf_0.4.3.orig.tar.gz
+ fdb477a33c3534438a566df3f6fcba4c414496ae 1090 ulf_0.4.3-1.diff.gz
+ ab0911ff74147bdfa8ad1d06932bba748c3fffba 11478 ulf_0.4.3-1_all.deb
+Checksums-Sha256:
+ de5dc10c798e8bc63ad67d58adb1f43b54b65bda6b39e671232a5f1c2ee7bb15 876 ulf_0.4.3-1.dsc
+ 80441740d46b58690394f87deb04978e85de8eeb56d1293fc91e9f3284d145c3 12807 ulf_0.4.3.orig.tar.gz
+ 138007fdb671a486da9afe0bea92e2028c71da66cb6331c4f0fd7af103d23ceb 1090 ulf_0.4.3-1.diff.gz
+ a93fdd6cbf03851fc570068db15df2d23a052950fc66961ec92aef5d5c80a808 11478 ulf_0.4.3-1_all.deb
+Files:
+ c9ab31b76dc692f99150d57bd05ce736 876 contrib/admin optional ulf_0.4.3-1.dsc
+ 2349c603da11d54be8133cafabda91f1 12807 contrib/admin optional ulf_0.4.3.orig.tar.gz
+ 28c08871a3b7fa0803c742f8accb99ac 1090 contrib/admin optional ulf_0.4.3-1.diff.gz
+ 3982cb4d5a923207e693ac6927fdef3b 11478 contrib/admin optional ulf_0.4.3-1_all.deb

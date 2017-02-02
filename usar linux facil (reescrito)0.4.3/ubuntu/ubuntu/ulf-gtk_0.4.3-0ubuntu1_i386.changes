@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 02 Feb 2017 12:00:00 +0000
+Source: ulf-gtk
+Binary: ulf-gtk
+Architecture: source all
+Version: 0.4.3-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: Hsmcea <cristian@cristian-100NZB>
+Changed-By: Hsmcea <cristian@cristian-100NZB>
+Description:
+ ulf-gtk    - This is the gtk support for Utilizar Linux Facil
+Changes:
+ ulf-gtk (0.4.3-0ubuntu1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ 04ee7a08258a28bf32f76966a50a0571ee424c45 533 ulf-gtk_0.4.3-0ubuntu1.dsc
+ 38be2d780a931f58101fc86cfa6b4503a23a0130 799 ulf-gtk_0.4.3-0ubuntu1.tar.gz
+ c192897c079b85fe0a5b6a90042886c413b797e2 1214 ulf-gtk_0.4.3-0ubuntu1_all.deb
+Checksums-Sha256:
+ b6023e719391bca858d04eec21c837621154e6f57d741867cf9f5de7896dc556 533 ulf-gtk_0.4.3-0ubuntu1.dsc
+ 696bb87f49ad7c86a2eac5dc7fa4050879ece4ca5bb43bc5f59468d2b20c1945 799 ulf-gtk_0.4.3-0ubuntu1.tar.gz
+ 444bfba8d31186f2bc25389d7ef7b718763cdc148a218a5d005048e0c1f169b6 1214 ulf-gtk_0.4.3-0ubuntu1_all.deb
+Files:
+ 530ae9b4c1ae47ff32bc6c1e40cdde94 533 contrib/admin optional ulf-gtk_0.4.3-0ubuntu1.dsc
+ 01618e9f4d8c2102554395993af454c7 799 contrib/admin optional ulf-gtk_0.4.3-0ubuntu1.tar.gz
+ 8dfa9cbe4a182db3c3773b5b9e2796c6 1214 contrib/admin optional ulf-gtk_0.4.3-0ubuntu1_all.deb

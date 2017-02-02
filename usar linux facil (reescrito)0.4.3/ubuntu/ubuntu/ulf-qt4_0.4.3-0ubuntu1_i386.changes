@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 02 Feb 2017 12:00:00 +0000
+Source: ulf-qt4
+Binary: ulf-qt4
+Architecture: source all
+Version: 0.4.3-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: Hsmcea <cristian@cristian-100NZB>
+Changed-By: Hsmcea <cristian@cristian-100NZB>
+Description:
+ ulf-qt4    - This is the qt4 support for Utilizar Linux Facil
+Changes:
+ ulf-qt4 (0.4.3-0ubuntu1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+Checksums-Sha1:
+ baac78eceecff612f53af117ed4aa26dfd1b30a0 533 ulf-qt4_0.4.3-0ubuntu1.dsc
+ c3da8dd909c5154a8d410846d4bef25e79dc984f 798 ulf-qt4_0.4.3-0ubuntu1.tar.gz
+ 1431cc0c74f018bd17c70b2a0caa2b5646b745a8 1212 ulf-qt4_0.4.3-0ubuntu1_all.deb
+Checksums-Sha256:
+ a8988eac6a87c7e2e1f376a3095e3077774bf4f68f5d85c983020ff0d93cf602 533 ulf-qt4_0.4.3-0ubuntu1.dsc
+ cc8059ad7fc039387b8c0e43be1450ff1717f687a36c93ad0df5b5ba58645f40 798 ulf-qt4_0.4.3-0ubuntu1.tar.gz
+ abe8020cbdcc13e32839c9c50c50a917750bf0a42d47ae8e565e3a5d22082223 1212 ulf-qt4_0.4.3-0ubuntu1_all.deb
+Files:
+ 9b2309d125d3b04e582bec12be3e6b3c 533 contrib/admin optional ulf-qt4_0.4.3-0ubuntu1.dsc
+ f9b831856c9d3a36d18d6bca3ea14511 798 contrib/admin optional ulf-qt4_0.4.3-0ubuntu1.tar.gz
+ 7e67c993af06c2d3ad9572769844b855 1212 contrib/admin optional ulf-qt4_0.4.3-0ubuntu1_all.deb
