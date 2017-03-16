@@ -1,0 +1,15 @@
+Source: ulf
+Section: contrib/admin
+Priority: optional
+Maintainer: Hsmcea <Amoyao2014@gmail.com>
+Build-Depends: debhelper (>= 5.0.0), gambas3-dev (>= 3.5), gambas3-dev (<< 3.99.0), gambas3-gb-image (>= 3.5), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.5), gambas3-gb-form (<< 3.99.0), x-terminal-emulator
+Standards-Version: 3.7.2
+
+Package: ulf
+Architecture: all
+Depends: gambas3-runtime (>= 3.5), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.5), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.5), gambas3-gb-form (<< 3.99.0), x-terminal-emulator
+Description: Utilizar Linux Facil
+ facilita el uso de linux
+ creado 
+ por Alejandro Hernandez y Cristian Amoyao
+ This program is written in Gambas

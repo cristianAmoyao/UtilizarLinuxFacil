@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 16 Mar 2017 12:00:00 +0000
+Source: ulf
+Binary: ulf
+Architecture: source all
+Version: 0.7.8-3
+Distribution: unstable
+Urgency: low
+Maintainer: Hsmcea <Amoyao2014@gmail.com>
+Changed-By: Hsmcea <Amoyao2014@gmail.com>
+Description:
+ ulf        - Utilizar Linux Facil
+Changes:
+ ulf (0.7.8-3) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 1b59a59fe3ae747fac4f51d508de61387c35c1f3 893 ulf_0.7.8-3.dsc
+ 19bd6570e2fea6523ae6f6ce8760906c43b088ab 1268 ulf_0.7.8-3.diff.gz
+ 726f462e805fefd901b16a1d7e2588c84f67d630 21972 ulf_0.7.8-3_all.deb
+Checksums-Sha256:
+ 9e6d48338e81c63cf0c0685dfb63e46c52c97e330cd8536b049346c24d733d9b 893 ulf_0.7.8-3.dsc
+ 43727bbcff1313b61dd8fa96803d79bef5e7c389644867d5364691d6e1d66923 1268 ulf_0.7.8-3.diff.gz
+ c00286bd96d4a20441c81438efaa1f8c13776c870f89ccab97cd4e2fe0347d81 21972 ulf_0.7.8-3_all.deb
+Files:
+ fe752c3908ef44a4ba50d5b200f5a3e1 893 contrib/admin optional ulf_0.7.8-3.dsc
+ 5a6bc14320a8d54af774d00a50add9ec 1268 contrib/admin optional ulf_0.7.8-3.diff.gz
+ 7ec9168de5666c10683c9f86a80d78a8 21972 contrib/admin optional ulf_0.7.8-3_all.deb

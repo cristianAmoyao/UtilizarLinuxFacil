@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Utilizar Linux Facil
+Comment=facilita el uso de linux creado  por Alejandro Hernandez y Cristian Amoyao
+Exec=/usr/bin/ulf
+Icon=/usr/share/pixmaps/ulf.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;Utility;

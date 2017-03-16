@@ -1,0 +1,27 @@
+Extraida de 
+http://es.wikihow.com/hacer-ping-en-Linux
+
+Cuanto menor sea el número de ida y vuelta en milisegundos(ejemplo time=2.13 ms), mejor.
+ Cuanto mayor sea, mayor será la latencia, lo que puede indicar un problema de red entre el ordenador 
+y el servidor en el que haces ping. 
+____________________________________________________________________________________
+====================== Consejos =============================================
+----------------------------------------------------------------------------------------------------------------------------------------
+
+*También puedes ejecutar un PING desde la terminal a distancia. 
+Ya sea ip o pagina
+                          ====Ejemplo===
+ 
+ping www.lapaginaavisitar.com 
+
+ó
+
+ping 192.168.0.1
+
+
+                          ==============
+
+Esto te permite hacer ping a una dirección IP o un ordenador
+ desde una computadora diferente a la tuya para ver si el problema 
+puede estar relacionado con la conexión local en lugar de la dirección
+ IP que estás intentando conectarte.

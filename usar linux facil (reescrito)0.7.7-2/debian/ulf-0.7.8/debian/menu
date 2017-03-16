@@ -1,0 +1,4 @@
+?package(ulf):needs="X11" section="Applications/System/Administration"\
+title="Utilizar Linux Facil"\
+command="/usr/bin/ulf"\
+icon="/usr/share/pixmaps/ulf.png"
