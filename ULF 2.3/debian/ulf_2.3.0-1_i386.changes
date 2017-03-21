@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 21 Mar 2017 12:00:00 +0000
+Source: ulf
+Binary: ulf
+Architecture: source all
+Version: 2.3.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Usar linux Facil <cristian@linux-2017>
+Changed-By: Usar linux Facil <cristian@linux-2017>
+Description:
+ ulf        - Utilizar Linux/GNU Facil
+Changes:
+ ulf (2.3.0-1) unstable; urgency=low
+ .
+   * Lanzamiento inicial
+   * He incorporado submenus e Scripts
+Checksums-Sha1:
+ 89072804ac2f434ef7c850fc42cfc8c3ec772b74 881 ulf_2.3.0-1.dsc
+ 9ba84653639813ebc0ba437ac394b9f1ec8f237c 14677 ulf_2.3.0.orig.tar.gz
+ 9b5dfca29585c285af228f70345515824271739c 1120 ulf_2.3.0-1.diff.gz
+ 96080a6ca5eef786ae9b0004bf011e58def9665f 7944 ulf_2.3.0-1_all.deb
+Checksums-Sha256:
+ 8c42aafa65997f0a04fe65afccb8e29ce77c592e5bd6806d3f916a095659ef2e 881 ulf_2.3.0-1.dsc
+ ea675ec4d77b928461b3d984bfbf2eea9c8db2bbfbb83ca45b639a611cd2994f 14677 ulf_2.3.0.orig.tar.gz
+ abc4598eeb7b6c60f3748cf995816e7bc47e4a61e7b2927d255739f6d4176e52 1120 ulf_2.3.0-1.diff.gz
+ 49c2d60a828a9b75eaec07d955a8255135b068c4cfd169d2ebbd772c81ef7691 7944 ulf_2.3.0-1_all.deb
+Files:
+ eb1a89c2436de6866473338b0898db6e 881 contrib/admin optional ulf_2.3.0-1.dsc
+ 9c1113e2105df2c71a7aa2cbddea087d 14677 contrib/admin optional ulf_2.3.0.orig.tar.gz
+ 00fc7aff821f5f63911b04325dd55b91 1120 contrib/admin optional ulf_2.3.0-1.diff.gz
+ d471c62845adc6acc903a55fd0a9f3e6 7944 contrib/admin optional ulf_2.3.0-1_all.deb

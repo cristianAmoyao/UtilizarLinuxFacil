@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Utilizar Linux/GNU Facil
+Comment=Nueva version Mejorada de ULF
+Exec=/usr/bin/ULF
+Icon=/usr/share/pixmaps/ulf.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;

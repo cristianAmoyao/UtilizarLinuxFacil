@@ -1,0 +1,4 @@
+src/ULF/ULF usr/bin
+src/ULF/ulf.png usr/share/pixmaps
+debian/ulf.desktop usr/share/applications
+

@@ -1,0 +1,11 @@
+Package: ulf
+Version: 2.3.0-1
+Architecture: all
+Maintainer: Usar linux Facil <cristian@linux-2017>
+Installed-Size: 31
+Depends: gambas3-runtime (>= 3.5), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.5), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.5), gambas3-gb-form (<< 3.99.0)
+Section: contrib/admin
+Priority: optional
+Description: Utilizar Linux/GNU Facil
+ Nueva version Mejorada de ULF
+ This program is written in Gambas
